@@ -1,5 +1,8 @@
-//class: binary search tree bst.h
-//derived from binary tree bt.h
+/*============================================================================================================================
+Description: Binary Search Tree, uses bt.h
+Authors: Bryan Pesquera Santiago
+Created on: 2016.
+============================================================================================================================*/
 
 #ifndef BST_H
 #define BST_H

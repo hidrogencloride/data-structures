@@ -1,8 +1,13 @@
+/*============================================================================================================================
+Description: Unsorted Linked List
+Authors: Bryan Pesquera Santiago
+Created on: 2016.
+============================================================================================================================*/
+
 #ifndef UNLLIST_H
 #define UNLLIST_H
 
-//Linked lists are not abstract data type, they are tools
-//to create abstract data types
+//Linked lists are not abstract data types, they are tools used to create abstract data types
 
 #include <iostream>
 #include <string>
